@@ -1,0 +1,5 @@
+package com.app.pojos;
+
+public enum PermanentStatus {
+	BOOKED, DRIVINGSLOTISSUED, DRIVINGPASS,DRIVINGFAIL,COMPLETED,REJECTED
+}
